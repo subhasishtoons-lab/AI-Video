@@ -1,0 +1,6 @@
+{
+  "name": "Tunsu Video AI",
+  "description": "Free AI video generation platform transforming text and images from gallery or webcam into professional-grade videos with OpenAI and Runway API integrations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
